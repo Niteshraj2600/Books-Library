@@ -1,0 +1,18 @@
+.nav {
+  background-color: rgb(32, 6, 94);
+  background-image: url("./Card/card-image.jpg");
+  /* background-image: url("./Card/card-image.jpg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 60px;
+  font-size: medium;
+  font-weight: 200;
+  position: sticky;
+  top: 0;
+  /* margin-bottom: 20px; */
+}

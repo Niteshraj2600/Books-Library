@@ -1,0 +1,23 @@
+/* .list {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0.6;
+  padding-left: 30px;
+  margin-top: 20px;
+} */
+.list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  /* display: flex;
+  flex-direction: column;
+  flex-wrap: wrap; */
+  flex: 1;
+}
+.error-msg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem;
+  font-style: oblique;
+  margin: 2rem;
+}

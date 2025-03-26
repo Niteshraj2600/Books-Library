@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Title": "Dark world",
+      "Author": "Juliet Oma",
+      "Genre": "Mystery",
+      "Summary": "This is the Mystery book in which everything is a mystery"
+    },
+    {
+      "id": 2,
+      "Title": "Little Master",
+      "Author": "Anirudh Upadhayay",
+      "Genre": "Biography",
+      "Summary": "story of the little boy who is play a very good cricket"
+    },
+    {
+      "id": 3,
+      "Title": "Harry Potter",
+      "Author": "J.K Rowling",
+      "Genre": "Magical",
+      "Summary": "the boy who is discover on his eleventh birthday"
+    },
+    {
+      "id": 4,
+      "Title": "Murder in the house",
+      "Author": "Dark Brown",
+      "Genre": "Mysteries",
+      "Summary": "story of the house in which murderer are present in the house"
+    },
+    {
+      "id": 5,
+      "Title": "Zombie",
+      "Author": "Paul Carlo",
+      "Genre": "Comedy",
+      "Summary": "the children who play the game "
+    }
+  ]
+}
